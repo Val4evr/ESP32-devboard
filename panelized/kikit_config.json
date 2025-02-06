@@ -1,0 +1,45 @@
+{
+    "layout": {
+        "hspace": "3mm",
+        "vbackbone": "5mm",
+        "vboneskip": "1",
+        "vbonefirst": "1",
+        "cols": "5"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "5mm",
+        "hwidth": "5mm",
+        "vcount": "0",
+        "hcount": "3"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "prolong": "0.5mm"
+    },
+    "framing": {
+        "type": "frame",
+        "vspace": "8mm",
+        "mintotalheight": "72mm",
+        "mintotalwidth": "72mm"
+    },
+    "tooling": {
+        "type": "3hole",
+        "hoffset": "3.5mm",
+        "voffset": "3.5mm",
+        "size": "1.152mm",
+        "soldermaskmargin": "0.148mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "3.5mm",
+        "voffset": "9mm",
+        "opening": "2mm"
+    },
+    "copperfill": {
+        "type": "solid"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}

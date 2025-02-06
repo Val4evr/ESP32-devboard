@@ -1,0 +1,3 @@
+kikit fab jlcpcb --nametemplate "ESP32_panelized_output{}" --no-drc --assembly --schematic <path to schematic file> <path to PCB file> <path to output directory>
+
+kikit fab jlcpcb --nametemplate "ESP32_panelized_output{}" --no-drc --assembly --schematic '/Users/valprok/Documents/(legacy) kikad projects/ESP32 Devboard/ESP32-devboard/ESP32-devboard.kicad_sch' '/Users/valprok/Documents/(legacy) kikad projects/ESP32 Devboard/ESP32-devboard/panelized/panelizedESP32.kicad_pcb' "/Users/valprok/Documents/(legacy) kikad projects/ESP32 Devboard/ESP32-devboard"
